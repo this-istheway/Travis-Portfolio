@@ -5,4 +5,6 @@ This is my Portfolio site a unique way for me to showcase my work to perspective
 # Table Content 
 #### Index - HOME
 #### Landing - ABOUT_ME
-#### Generic -generic_Python
+#### Generic -Generic_Python
+
+# LANGUAGES 
